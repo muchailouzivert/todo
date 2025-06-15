@@ -44,7 +44,7 @@ git clone https://github.com/your-username/todo-list-app.git
 cd todo-list-app
 npm install
 npm run
-
+```
 #✅ Тестування
 
 У проєкті реалізовані **модульні тести (unit tests)** для перевірки основних функцій застосунку:
